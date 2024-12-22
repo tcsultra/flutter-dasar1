@@ -147,7 +147,7 @@ void hello(String name) {
 double luasSegitiga(int a, int t) {
   return (a * t) / 2;
 }
-
+// menambahkan tulisan comentar pada setiap tag
 // named parameter
 int luasPanjang({
   int? panjang,
